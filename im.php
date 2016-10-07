@@ -2,6 +2,7 @@
 img {
 width:20%;
 }
+/**/
 </style>
 <div style="width:240px;">
 <img src="images/Chrysanthemum.jpg" width="53" height="25" /><img src="images/Desert.jpg" width="53" height="25" /><img src="images/Hydrangeas.jpg" width="53" height="25" /><img src="images/Jellyfish.jpg" width="53" height="25" /><img src="images/Koala.jpg" width="53" height="25" /><br />
